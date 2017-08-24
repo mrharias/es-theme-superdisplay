@@ -2,6 +2,7 @@
 # MrHArias
 OVERVIEW
 
+08/26/07 All images had been resize to 720p for better performace, theres NOT to need to change your memory split, just adjust your vram to 80 fromt the ES menu.
 This ZIP package contains the Super Display theme that is to be used within Emulation Station.
 
 **NOTE**
@@ -41,4 +42,4 @@ Hacks themes: genh,gbh,gbah,ggh,nesh,snesh,smw-hacks,streetsofragehacks,hacks100
 
 Also, to support future RetroPie user defined collections, these are the included collections theme folders.
 
-batman,castlevania,donkeykong,finalfantasy,frogger,mario,megaman,mortalkombat,pacman,pokemon,sonic,starwars,tmnt,zelda
+batman,castlevania,donkeykong,finalfantasy,frogger,mario,megaman,mortalkombat,pacman,pokemon,sonic,starwars,tmnt,zelda,snesmini,nesmini
