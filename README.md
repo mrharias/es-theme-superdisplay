@@ -9,7 +9,6 @@ This ZIP package contains the Super Display theme that is to be used within Emul
 
 This theme uses zIndex layering for the video snaps. There is a known issue within Emulation Station when you have the OMX Player enabled so make sure to turn it off.
 
-If experiencing glitches try playing with your vram settings, for me vram at 110 seen to works the best.
 
 ---------------------------------------------------------
 

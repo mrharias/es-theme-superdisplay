@@ -1,6 +1,7 @@
 <!--
-theme name:     Showcase
-version         1.0
+theme name:     Super Display
+version         3.0
+ MrHArias
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -136,7 +137,7 @@ version         1.0
     </rating>
     <text name="md_description">
         <pos>0.01 0.64</pos>
-        <size>0.22 0.3</size>
+        <size>0.205 0.3</size>
         <color>cccccc</color>
     </text>
     <text name="md_playcount">
