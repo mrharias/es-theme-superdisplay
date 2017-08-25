@@ -40,14 +40,14 @@ version         3.0
    
    <view name="basic,detailed">
        <helpsystem name="help">
-           <pos>0.18 0.95</pos>
+           <pos>0.22 0.95</pos>
            <textColor>777777</textColor>
            <iconColor>FFFFFF</iconColor>
        </helpsystem>
    </view>
    <view name="video">
        <helpsystem name="help">
-           <pos>0.28 0.95</pos>
+           <pos>0.275 0.95</pos>
            <textColor>777777</textColor>
            <iconColor>FFFFFF</iconColor>
        </helpsystem>
