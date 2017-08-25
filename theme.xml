@@ -31,7 +31,7 @@ version         1.0
 
    <view name="system">
       <helpsystem name="help">
-          <pos>0.36 0.96</pos>
+          <pos>0.34 0.96</pos>
           <textColor>777777</textColor>
          <iconColor>FFFFFF</iconColor>
       </helpsystem>
