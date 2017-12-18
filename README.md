@@ -37,6 +37,8 @@ cps1,cps2,cps3,daphne,dreamcast,famicom,fba,fds,gameandwatch,gamegear,gb,gba,gbc
 nes,ngp,ngpc,odyssey2,pc,pcengine,pcenginecd,pixel,ports,ps2,psp,pspminis,psx,retropie,saturn,scummvm,sega32x,segacd,sfc,sg1000,sgfx,snes,tg16,tg16cd,vectrex,virtualboy,
 wii,wiiu,wonderswan,wonderswancolor,zxspectrum,ti99,zmachine,intellivion,segapico,segatectoy
 
+12-17-17 new themes added; atomisware,futurepinball,model2,model3,mugen,n3ds,naomi,naomi2,openbor,pcgames,pinballfx2,popcap,taititypex,touhou-project,zinc
+
 Hacks themes: genh,gbh,gbah,ggh,nesh,snesh,smw-hacks,streetsofragehacks,hacks100
 
 Also, to support future RetroPie user defined collections, these are the included collections theme folders.
