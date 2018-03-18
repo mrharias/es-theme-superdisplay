@@ -62,7 +62,6 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.02</fontSize>
-           <forceUppercase>1</forceUppercase>
            <scrollSound></scrollSound>
            <alignment>center</alignment>
        </textlist>
@@ -77,7 +76,6 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.03</fontSize>
-           <forceUppercase>1</forceUppercase>
            <scrollSound></scrollSound>
            <alignment>center</alignment>
        </textlist>
@@ -92,7 +90,6 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.025</fontSize>
-           <forceUppercase>1</forceUppercase>
            <scrollSound></scrollSound>
            <alignment>center</alignment>
        </textlist>
@@ -305,10 +302,9 @@ version         3.0
           <pos>0.601 0.491</pos>
           <zIndex>5</zIndex>
           <size>0.48 0.495</size>
-          <delay>0.01</delay>
-          <default>./_inc/videos/static.mp4</default>
+          <delay>1.00</delay>
           <showSnapshotNoVideo>true</showSnapshotNoVideo>
-          <showSnapshotDelay>false</showSnapshotDelay>
+          <showSnapshotDelay>true</showSnapshotDelay>
       </video>
       <!--WHEEL-->
       <image name="md_marquee">
